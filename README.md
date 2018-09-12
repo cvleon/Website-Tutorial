@@ -1,2 +1,2 @@
-# Website-Tutorial
-A series of files to create a website based on a Youtube tutorial found online. 
+# Website Portfolio
+The begginning of my first website portfolio. Project is ongoing. 
